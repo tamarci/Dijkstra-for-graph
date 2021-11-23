@@ -1,7 +1,7 @@
 # Dijkstra-for-graph
 Dijsktra algorithm to plan route from a point to an other
 
-##Input format:
+## Input format:
 
 Number of routes r (int)
 Number of vertices v (int)
